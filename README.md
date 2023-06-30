@@ -7,7 +7,7 @@ This project was geared towards JavaScript variables and the sole purpose was to
 N/A
 
 ## Useage
-https://jalene-ferguson.github.io/Pass-Gen/
+
 ## License
 N/A
 
